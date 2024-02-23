@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Sg3ywWOq17gTj5v5lV4pl5NVfHAqAX52P5pKb/CoQwr+JPKjhKEjwRCI9+G0TiI2iSTtHbGuRWgGUr1lmWHCQ==",
+  "success": true,
+  "projectFilePath": "/Users/matheussantos/Projects/Bank/Bank/Bank.csproj",
+  "expectedPackageFiles": [
+    "/Users/matheussantos/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/matheussantos/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/matheussantos/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.14/microsoft.netcore.app.host.osx-arm64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

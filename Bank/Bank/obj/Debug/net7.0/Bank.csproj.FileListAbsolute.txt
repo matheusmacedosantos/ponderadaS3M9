@@ -1,0 +1,14 @@
+/Users/matheussantos/Projects/Bank/Bank/bin/Debug/net7.0/Bank
+/Users/matheussantos/Projects/Bank/Bank/bin/Debug/net7.0/Bank.deps.json
+/Users/matheussantos/Projects/Bank/Bank/bin/Debug/net7.0/Bank.runtimeconfig.json
+/Users/matheussantos/Projects/Bank/Bank/bin/Debug/net7.0/Bank.dll
+/Users/matheussantos/Projects/Bank/Bank/bin/Debug/net7.0/Bank.pdb
+/Users/matheussantos/Projects/Bank/Bank/obj/Debug/net7.0/Bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matheussantos/Projects/Bank/Bank/obj/Debug/net7.0/Bank.AssemblyInfoInputs.cache
+/Users/matheussantos/Projects/Bank/Bank/obj/Debug/net7.0/Bank.AssemblyInfo.cs
+/Users/matheussantos/Projects/Bank/Bank/obj/Debug/net7.0/Bank.csproj.CoreCompileInputs.cache
+/Users/matheussantos/Projects/Bank/Bank/obj/Debug/net7.0/Bank.dll
+/Users/matheussantos/Projects/Bank/Bank/obj/Debug/net7.0/refint/Bank.dll
+/Users/matheussantos/Projects/Bank/Bank/obj/Debug/net7.0/Bank.pdb
+/Users/matheussantos/Projects/Bank/Bank/obj/Debug/net7.0/Bank.genruntimeconfig.cache
+/Users/matheussantos/Projects/Bank/Bank/obj/Debug/net7.0/ref/Bank.dll
